@@ -1,11 +1,11 @@
 # Lip_Sync--A-V
 AI model that is proficient in lip-syncing i.e. synchronizing an audio file with a video file.
 
-##Cloning of git repo
+## Cloning of git repo
 
 https://github.com/zabique/Wav2Lip
 
-##Downloading a Model Checkpoint:
+## Downloading a Model Checkpoint:
 
    - Use the following command to download a pre-trained model checkpoint:
    - 
@@ -20,28 +20,28 @@ https://github.com/zabique/Wav2Lip
 
 
 
-##Installing the `ghc` Python Package:
+## Installing the `ghc` Python Package:
 
    - Install the `ghc` Python package using the following command:
      python --
      ``a = !pip install https://raw.githubusercontent.com/AwaleSajil/ghc/master/ghc-1.0-py3-none-any.whl``
      (for reference)
 
-##Install Required packages/libraries as mentioned in the requirement.txt:
+## Install Required packages/libraries as mentioned in the requirement.txt:
 
-     ``librosa==0.7.0
+     librosa==0.7.0
      numpy==1.17.1
      opencv-contrib-python>=4.2.0.34
      opencv-python==4.1.0.25
      torch==1.1.0
      torchvision==0.3.0
      tqdm==4.45.0
-     numba==0.48``
+     numba==0.48
      
 
-##Lip-syncing videos using the pre-trained models (Inference):
+## Lip-syncing videos using the pre-trained models (Inference):
 
-    ``!cd Wav2Lip && python inference.py --checkpoint_path checkpoints/(your generated .pth file) --face "path of video" --audio "audio path".``
+    !cd Wav2Lip && python inference.py --checkpoint_path checkpoints/(your generated .pth file) --face "path of video" --audio "audio path".
 
 
 Download the generated video
