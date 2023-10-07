@@ -1,5 +1,7 @@
 # Lip_Sync--A-V
-AI model that is proficient in lip-syncing i.e. synchronizing an audio file with a video file.
+Purpose: Lip sync AI models aim to synchronize the lip movements of a digital character or a person in a video with the corresponding audio or speech content. This synchronization enhances the realism of animated characters or dubbed videos.
+
+Visual Features: The model generates lip movements as visual features, which are typically represented as a sequence of mouth shapes or keyframes. These visual features are then overlaid on the original video.
 
 ## Cloning of git repo
 
