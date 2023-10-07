@@ -43,6 +43,7 @@ https://github.com/zabique/Wav2Lip
 
     !cd Wav2Lip && python inference.py --checkpoint_path checkpoints/(your generated .pth file) --face "path of video" --audio "audio path".
 
+The generated video will get saved in results folder.
 
 Download the generated video
 
