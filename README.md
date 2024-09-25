@@ -1,8 +1,10 @@
+Lip Sync AI model
 
+### **Purpose**:
+The Lip Sync AI model is designed to align a digital character's or a person's lip movements in a video with the corresponding audio or speech. This enhances the realism in animations and improves synchronization in dubbed videos.
 
-## Cloning of git repo
-
-https://github.com/zabique/Wav2Lip
+### **Visual Features**:
+The model generates lip movement sequences, represented as keyframes or mouth shapes, which are then seamlessly overlaid onto the original video to create synchronized and lifelike lip movements.
 
 ## Downloading a Model Checkpoint:
 
