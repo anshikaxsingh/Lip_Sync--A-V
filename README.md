@@ -1,4 +1,4 @@
-Lip Sync AI model
+## Lip Sync AI model
 
 ### **Purpose**:
 The Lip Sync AI model is designed to align a digital character's or a person's lip movements in a video with the corresponding audio or speech. This enhances the realism in animations and improves synchronization in dubbed videos.
